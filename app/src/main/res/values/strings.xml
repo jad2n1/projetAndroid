@@ -2,4 +2,6 @@
     <string name="app_name">projetAndroid</string>
     <string name="txt_bienvenue">BIENVENUE</string>
     <string name="btn_alpes">Alpes</string>
+    <string name="btn_atlantique">Atlantique</string>
+    <string name="cote_d_azur">Cote d\'Azur</string>
 </resources>

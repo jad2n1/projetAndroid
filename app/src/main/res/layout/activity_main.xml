@@ -17,4 +17,40 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_atlantique"
+        android:layout_width="187dp"
+        android:layout_height="92dp"
+        android:layout_marginStart="114dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="110dp"
+        android:text="@string/btn_atlantique"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_Alpes" />
+
+    <Button
+        android:id="@+id/btn_cotedazur"
+        android:layout_width="190dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="114dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="110dp"
+        android:text="@string/cote_d_azur"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_atlantique" />
+
+    <Button
+        android:id="@+id/btn_Paris"
+        android:layout_width="186dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="116dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="110dp"
+        android:text="Paris"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_cotedazur" />
 </androidx.constraintlayout.widget.ConstraintLayout>
