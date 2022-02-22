@@ -4,13 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ecran2">
 
-    <Button
-        android:id="@+id/btn_Alpes"
-        android:layout_width="194dp"
-        android:layout_height="92dp"
-        android:text="@string/btn_alpes"
-        tools:layout_editor_absoluteX="108dp"
-        tools:layout_editor_absoluteY="125dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
