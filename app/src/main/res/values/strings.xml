@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">projetAndroid</string>
+    <string name="txt_bienvenue">BIENVENUE</string>
 </resources>
