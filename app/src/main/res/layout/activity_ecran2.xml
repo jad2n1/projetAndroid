@@ -7,3 +7,6 @@
     tools:context=".ecran2">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+< TextView
+     android.layout_width="wrap_content"
