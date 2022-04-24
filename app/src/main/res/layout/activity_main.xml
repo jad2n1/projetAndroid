@@ -11,10 +11,11 @@
         android:layout_width="194dp"
         android:layout_height="92dp"
         android:layout_marginStart="108dp"
-        android:layout_marginTop="125dp"
+        android:layout_marginTop="120dp"
         android:layout_marginEnd="109dp"
         android:text="@string/btn_alpes"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -35,10 +36,11 @@
         android:layout_width="190dp"
         android:layout_height="88dp"
         android:layout_marginStart="114dp"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="20dp"
         android:layout_marginEnd="110dp"
         android:text="@string/cote_d_azur"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_atlantique" />
 
@@ -49,7 +51,7 @@
         android:layout_marginStart="116dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="110dp"
-        android:text="Paris"
+        android:text="@string/paris"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btn_cotedazur" />
